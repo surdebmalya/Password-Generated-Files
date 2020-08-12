@@ -6,8 +6,8 @@ In case of Log In, if the user id is not matching, the code will ask for the pro
 Then it will ask for the password that has been given to that particular file when it has been created.
 If the password matchs then it will generate a output that Log in successful!!!
 
-For more information visit the website:
-https://dsasanengineer.blogspot.com/2020/02/password-generated-files-by-python3.html
+## For more information visit the website:
+[Click Here](https://dsasanengineer.blogspot.com/2020/02/password-generated-files-by-python3.html) to visit the related blog to this project!
 
-To see the code in action, visit:
-https://youtu.be/p5ANNVUqGko 
+## To see the code in action, visit:
+[![Watch the video](http://i3.ytimg.com/vi/p5ANNVUqGko/maxresdefault.jpg)](https://youtu.be/p5ANNVUqGko)
