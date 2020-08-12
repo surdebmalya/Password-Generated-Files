@@ -10,4 +10,4 @@ If the password matchs then it will generate a output that Log in successful!!!
 [Click Here](https://dsasanengineer.blogspot.com/2020/02/password-generated-files-by-python3.html) to visit the related blog to this project!
 
 ## To see the code in action, visit:
-[![Watch the video](http://i3.ytimg.com/vi/p5ANNVUqGko/maxresdefault.jpg)](https://youtu.be/p5ANNVUqGko)
+[![Watch the video](http://i3.ytimg.com/vi/p5ANNVUqGko/hqdefault.jpg)](https://youtu.be/p5ANNVUqGko)
